@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<!-- ## Hi there 👋 -->
 <!--
 **josharnow/josharnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- "By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should deploy your own instance using your own GitHub API token." -->
+
+<!-- [![Stats](https://github-readme-stats.vercel.app/api?username=josharnow&count_private=true&show_icons=true&disable_animations=true&theme=dark)](https://www.josharnow.com)
+<br> -->
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=josharnow&theme=dark)](https://www.josharnow.com)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josharnow&layout=compact&theme=dark&count_private=true)](https://www.josharnow.com)
