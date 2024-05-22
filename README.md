@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- TODO - Styling -->
+
 <!-- "By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should deploy your own instance using your own GitHub API token." -->
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=josharnow&count_private=true&show_icons=true&disable_animations=true&theme=dark)](https://www.josharnow.com)
