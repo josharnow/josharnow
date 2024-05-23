@@ -23,5 +23,6 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-two-green-85.vercel.app/api?username=josharnow&count_private=true&show_icons=true&theme=calm&hide_border=true&bg_color=90,f6921e,eb008b&title_color=fff&text_color=fff" alt="GitHub Stats" />
 </a>
 <a href="https://www.josharnow.com">
-  <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&theme=ocean-gradient" alt="GitHub Streak" />
+  <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&theme=ocean-gradient&background=90,f6921e,eb008b" alt="GitHub Streak" />
+<!--   <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&theme=ocean-gradient" alt="GitHub Streak" /> -->
 </a>
