@@ -23,7 +23,5 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-two-green-85.vercel.app/api?username=josharnow&count_private=true&show_icons=true&theme=calm&bg_color=90,f6921e,eb008b&title_color=fff&text_color=fff" alt="GitHub Stats" />
 </a>
 <a href="https://www.josharnow.com">
-<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> -->
   <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&theme=ocean-gradient" alt="GitHub Streak" />
-  
 </a>
