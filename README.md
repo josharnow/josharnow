@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josharnow&layout=compact&count_private=true&theme=calm)](https://www.josharnow.com) -->
 
 <!-- "By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should deploy your own instance using your own GitHub API token." -->
-<a href="https://www.josharnow.com" target="_blank">
+<a href="https://josharnow.com" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats-two-green-85.vercel.app/api?username=josharnow&count_private=true&show_icons=true&theme=calm&hide_border=true&bg_color=90,f6921e,eb008b&title_color=fff&text_color=fff" alt="GitHub Stats" />
 </a>
-<a href="https://www.josharnow.com" target="_blank">
+<a href="https://josharnow.com" target="_blank">
   <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&hide_border=true&theme=ocean-gradient&background=90,f6921e,eb008b" alt="GitHub Streak" />
 <!--   <img height=200 align="center" src="https://github-readme-streak-stats-theta-seven.vercel.app?user=josharnow&theme=ocean-gradient" alt="GitHub Streak" /> -->
 </a>
